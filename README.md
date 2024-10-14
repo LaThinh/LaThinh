@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lathinh&label=Profile%20views&color=0e75b6&style=flat" alt="lathinh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lathinh" alt="lathinh" /></a> </p>
 
 - 💬 Ask me about **NextJs, ReactJs, TailwindCss, Astro, Css, Js**
 - 👨‍💻 All of my projects are available at [https://laquocthinh.com/](https://laquocthinh.com/)
@@ -100,5 +99,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lathinh&show_icons=true&locale=en&layout=compact" alt="lathinh" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lathinh" alt="lathinh" /></a> </p>
+<br/>
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lathinh&show_icons=true&locale=en" alt="lathinh" /></p>
