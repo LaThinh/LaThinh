@@ -10,8 +10,9 @@
 
 - 📝 I regularly write articles on [https://myblog.laquocthinh.com/](https://myblog.laquocthinh.com/)
 
-
+<!---
 - 📫 How to reach me **thinh001@gmail.com**
+-->
 
 - ⚡ Fun fact **I love to travel, explore, take photos, and learn about new technologies.**
 
